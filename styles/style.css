@@ -1,14 +1,11 @@
 /* место для вашего кода */
 
-body {
-}
-
 h1,
 h2 {
   text-transform: uppercase;
 }
 
-a{
+a {
   text-underline-position: under;
 }
 
@@ -270,9 +267,6 @@ h1 span {
   justify-content: space-between;
 }
 
-.card-1__text {
-}
-
 .card-1__text,
 .card-2__text,
 .card-3__text {
@@ -376,6 +370,6 @@ h1 span {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  
+
 }
 
